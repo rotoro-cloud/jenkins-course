@@ -75,6 +75,7 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jemoji
 
 # Exclude these files from your production _site
 exclude:
@@ -89,3 +90,4 @@ exclude:
 remote_theme: jekyll-theme-tactile
 plugins: 
 - jekyll-remote-theme
+- jemoji
