@@ -1,7 +1,7 @@
 ---
 layout: article
 ---
-
+НЕ ИСПОЛЬЗУЕТСЯ
 
 java -jar jenkins-cli.jar \
 -s http://158.160.98.100:8080/ \
