@@ -1,7 +1,7 @@
 ---
 layout: article
 ---
-Создам Freestyle project.
+Создам `Freestyle project`.
 
 В нем выставлю `Restrict where this project can be run` в `ec2`, чтобы job исполнялась только на облачном агенте и больше нигде.
 
