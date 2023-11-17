@@ -5,3 +5,5 @@ layout: article
 ```
 ls /var/lib/jenkins/plugins/ | grep que
 ``` 
+
+Теперь использую созданный в прошлый раз бэкап для отката к старому состоянию.
