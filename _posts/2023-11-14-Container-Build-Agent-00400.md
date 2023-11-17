@@ -1,7 +1,7 @@
 ---
 layout: article
 ---
-Итак, я иду в `VS Code`, где у меня Jenkinsfile, как ты видишь. Он тоже доступен в ветке `jenkinsfiles` в номером темы.
+Итак, я иду в `VS Code`, где у меня Jenkinsfile, как ты видишь. Он тоже доступен в ветке `jenkinsfiles` с номером темы.
 
 ```groovy
 pipeline {
