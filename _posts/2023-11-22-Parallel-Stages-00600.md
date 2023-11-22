@@ -1,6 +1,9 @@
 ---
 layout: article
 ---
+
+
+```groovy
 pipeline {
     agent {
         label 'linux-x64'
