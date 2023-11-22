@@ -1,6 +1,7 @@
 ---
 layout: article
 ---
+```groovy
 pipeline {
     agent any
     tools {
