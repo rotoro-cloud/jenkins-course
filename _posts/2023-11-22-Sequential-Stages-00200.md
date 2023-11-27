@@ -1,10 +1,6 @@
 ---
 layout: article
 ---
-<aside>
-🖼️
-
-</aside>
 
 ```groovy
 pipeline {
